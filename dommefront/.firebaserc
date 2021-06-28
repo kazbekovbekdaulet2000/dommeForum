@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-91a0e": {
+      "hosting": {
+        "dommefront": [
+          "fir-91a0e"
+        ]
+      }
+    }
+  }
+}
